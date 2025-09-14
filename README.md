@@ -13,9 +13,14 @@ Email Me 👉 ✉️ **tanishqdubey.work@gmail.com** For Collaboration/Project o
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 - # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanaydubey18&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tanaydubey18&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaydubey18&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=tanaydubey18&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=tanaydubey18&theme=merko&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaydubey18&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanaydubey18&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
