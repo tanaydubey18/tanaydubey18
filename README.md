@@ -25,7 +25,8 @@ Email Me 👉 ✉️ **tanishqdubey.work@gmail.com** For Collaboration/Project o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanaydubey18&icon=0&color=0)](https://visitcount.itsvg.in)
-
+When I Code, the Snake Grows! ☠️
+The snake only eats code. Keep it fed! 🫡
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
